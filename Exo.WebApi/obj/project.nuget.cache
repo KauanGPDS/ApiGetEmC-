@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wl/MA8RfQiL19N526EUrgbxpY0fnbLd3um/VUR8zulz6DLnxAST6VaQ3PwlW4q12yvK1vryIQ8MhdKCdNXTnDw==",
+  "dgSpecHash": "0gcQozY931oO75wB73PoAHXcss4k4RlA0LCC2pRi5EvpN7OfybXo0n5ntzcUfdGZ+J1BfnGoqZOQwKSeYNvmuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lipih\\Downloads\\Nova pasta (3)\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\lipih\\Downloads\\Nova pasta (3)\\ApiGetEmC-\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lipih\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\lipih\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
